@@ -1035,12 +1035,6 @@ button {
     background: linear-gradient(90deg, var(--purple), var(--blue))
 }
 
-.slider-hint {
-    font-size: 9px;
-    letter-spacing: 1.5px;
-    color: #77748e
-}
-
 .section-experience {
     max-width: 1200px;
     margin: auto
